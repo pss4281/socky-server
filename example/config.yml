@@ -1,0 +1,6 @@
+debug: false
+
+applications:
+  my_app:
+    secret: my_secret
+    webhook_url: http://callback.url/webhook/
